@@ -5,7 +5,13 @@
 * Documentar processos técnicos de forma clara e estruturada;
 * Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
 
-Veja a planilha pronta: 
-[https://github.com/geosidnei/excel_fii_app/blob/main/print_sidInvestments.png]
+Veja a planilha principal (app):
+
+![print_sidInvestments](https://github.com/geosidnei/excel_fii_app/blob/main/print_sidInvestments.png)
+
+E a planilha auxiliar:
+
+
+
 ## Agradecimentos ao professor Felipe Aguiar:
 @felipeaguiar.exe
