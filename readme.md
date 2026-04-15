@@ -1,4 +1,4 @@
-# Este desafio da Dio (https://www.dio.me/) serviu para: 
+# Este desafio da Dio serviu para: 
 
 * Criar ferramentas de simulação de investimentos em Excel;
 * Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos;
