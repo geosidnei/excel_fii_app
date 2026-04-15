@@ -6,3 +6,6 @@
 * Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
 
 Veja a planilha pronta: 
+
+## Agradecimentos ao professor Felipe Aguiar:
+@felipeaguiar.exe
