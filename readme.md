@@ -1,4 +1,4 @@
-# Este desafio serviu para: 
+# Este desafio da Dio (https://www.dio.me/) serviu para: 
 
 * Criar ferramentas de simulação de investimentos em Excel;
 * Aplicar cálculos financeiros como rendimento mensal e cálculo de dividendos;
@@ -16,3 +16,5 @@ E a planilha auxiliar:
 
 ## Meus sinceros agradecimentos ao professor Felipe Aguiar:
 @felipeaguiar.exe
+Dio - Digital Innovation One
+(https://www.dio.me/)
