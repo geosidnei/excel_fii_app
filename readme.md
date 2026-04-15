@@ -11,7 +11,8 @@ Veja a planilha principal (app):
 
 E a planilha auxiliar:
 
+![print_sidInvestments_planilha_apoio](https://github.com/geosidnei/excel_fii_app/blob/main/print_sidInvestments_planilha_apoio.png)
 
 
-## Agradecimentos ao professor Felipe Aguiar:
+## Meus sinceros agradecimentos ao professor Felipe Aguiar:
 @felipeaguiar.exe
