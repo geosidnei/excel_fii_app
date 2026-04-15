@@ -6,6 +6,6 @@
 * Utilizar o GitHub como ferramenta para compartilhamento de documentação técnica. 
 
 Veja a planilha pronta: 
-
+[https://github.com/geosidnei/excel_fii_app/blob/main/print_sidInvestments.png]
 ## Agradecimentos ao professor Felipe Aguiar:
 @felipeaguiar.exe
